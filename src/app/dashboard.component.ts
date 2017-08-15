@@ -3,7 +3,7 @@ import { Component } from '@angular/core';
 
 @Component({
 selector: 'my-dashboard',
-template: '<h3> My DashBoard </h3>'
+templateUrl: './dashboard.component.html'
 })
 
 export class DashBoardComponent {}
