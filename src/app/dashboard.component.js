@@ -27,6 +27,7 @@ DashBoardComponent = __decorate([
         selector: 'my-dashboard',
         // template: '<h3>My DashBoard</h3>'
         templateUrl: './dashboard.component.html',
+        styleUrls: ['./dashboard.component.css']
     }),
     __metadata("design:paramtypes", [hero_service_1.HeroService])
 ], DashBoardComponent);
